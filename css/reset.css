@@ -70,8 +70,9 @@ ul.top_menu {
 
 .image_area {
 
-  width: 100%;
-  height: 100px;
+    max-height:100%;
+    max-width:100%;
+    vertical-align:middle;
 }
 
 .wrapper {
